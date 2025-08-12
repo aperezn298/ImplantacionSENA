@@ -1,4 +1,4 @@
-<img src="https://www.shutterstock.com/image-vector/software-development-life-cycle-banner-260nw-2303524629.jpg" alt="Logo de GitHub" width="250" height="100">
+<img src="https://www.shutterstock.com/image-vector/software-development-life-cycle-banner-260nw-2303524629.jpg" alt="Logo de GitHub" width="350" height="100">
 Competencia de Implantación SENA para el Programa de ADSO
 
 **Autor:** Alvaro Pérez N
