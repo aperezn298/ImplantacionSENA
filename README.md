@@ -14,6 +14,8 @@ Competencia de Implantación SENA para el Programa de ADSO
     - [Plan de Concertación](https://github.com/aperezn298/ImplantacionSENA/tree/main/01_InfoCompetencia_2889927/Acta_Concertacion_Implantacion_Firmada_2889927.pdf)
     - [Contextualización de la competencia](https://github.com/aperezn298/ImplantacionSENA/tree/main/01_InfoCompetencia_2889927/00ContextualizacionImplantacion.pdf)
 2. [Cloud Computing - Conceptos](https://github.com/aperezn298/ImplantacionSENA/tree/main/02_MaterialApoyo/01CloudComputing.pdf)
+3. **Servidores**
+    - [Hardware - Conceptos](https://github.com/aperezn298/ImplantacionSENA/tree/main/02_MaterialApoyo/02Servidores.pdf)
 
 # Guia Interactiva de Aprendizaje:
 - [Paso a paso Guia Interactiva Implantación](#)
